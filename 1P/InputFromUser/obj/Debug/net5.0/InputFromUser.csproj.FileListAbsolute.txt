@@ -1,0 +1,16 @@
+E:\Ceti-Holders\7H-Ago---Dic-2021\1P\InputFromUser\bin\Debug\net5.0\InputFromUser.exe
+E:\Ceti-Holders\7H-Ago---Dic-2021\1P\InputFromUser\bin\Debug\net5.0\InputFromUser.deps.json
+E:\Ceti-Holders\7H-Ago---Dic-2021\1P\InputFromUser\bin\Debug\net5.0\InputFromUser.runtimeconfig.json
+E:\Ceti-Holders\7H-Ago---Dic-2021\1P\InputFromUser\bin\Debug\net5.0\InputFromUser.runtimeconfig.dev.json
+E:\Ceti-Holders\7H-Ago---Dic-2021\1P\InputFromUser\bin\Debug\net5.0\InputFromUser.dll
+E:\Ceti-Holders\7H-Ago---Dic-2021\1P\InputFromUser\bin\Debug\net5.0\ref\InputFromUser.dll
+E:\Ceti-Holders\7H-Ago---Dic-2021\1P\InputFromUser\bin\Debug\net5.0\InputFromUser.pdb
+E:\Ceti-Holders\7H-Ago---Dic-2021\1P\InputFromUser\obj\Debug\net5.0\InputFromUser.csproj.AssemblyReference.cache
+E:\Ceti-Holders\7H-Ago---Dic-2021\1P\InputFromUser\obj\Debug\net5.0\InputFromUser.GeneratedMSBuildEditorConfig.editorconfig
+E:\Ceti-Holders\7H-Ago---Dic-2021\1P\InputFromUser\obj\Debug\net5.0\InputFromUser.AssemblyInfoInputs.cache
+E:\Ceti-Holders\7H-Ago---Dic-2021\1P\InputFromUser\obj\Debug\net5.0\InputFromUser.AssemblyInfo.cs
+E:\Ceti-Holders\7H-Ago---Dic-2021\1P\InputFromUser\obj\Debug\net5.0\InputFromUser.csproj.CoreCompileInputs.cache
+E:\Ceti-Holders\7H-Ago---Dic-2021\1P\InputFromUser\obj\Debug\net5.0\InputFromUser.dll
+E:\Ceti-Holders\7H-Ago---Dic-2021\1P\InputFromUser\obj\Debug\net5.0\ref\InputFromUser.dll
+E:\Ceti-Holders\7H-Ago---Dic-2021\1P\InputFromUser\obj\Debug\net5.0\InputFromUser.pdb
+E:\Ceti-Holders\7H-Ago---Dic-2021\1P\InputFromUser\obj\Debug\net5.0\InputFromUser.genruntimeconfig.cache
