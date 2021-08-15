@@ -1,0 +1,16 @@
+E:\Ceti-Holders\7H-Ago---Dic-2021\1P\NullHandling\bin\Debug\net5.0\NullHandling.exe
+E:\Ceti-Holders\7H-Ago---Dic-2021\1P\NullHandling\bin\Debug\net5.0\NullHandling.deps.json
+E:\Ceti-Holders\7H-Ago---Dic-2021\1P\NullHandling\bin\Debug\net5.0\NullHandling.runtimeconfig.json
+E:\Ceti-Holders\7H-Ago---Dic-2021\1P\NullHandling\bin\Debug\net5.0\NullHandling.runtimeconfig.dev.json
+E:\Ceti-Holders\7H-Ago---Dic-2021\1P\NullHandling\bin\Debug\net5.0\NullHandling.dll
+E:\Ceti-Holders\7H-Ago---Dic-2021\1P\NullHandling\bin\Debug\net5.0\ref\NullHandling.dll
+E:\Ceti-Holders\7H-Ago---Dic-2021\1P\NullHandling\bin\Debug\net5.0\NullHandling.pdb
+E:\Ceti-Holders\7H-Ago---Dic-2021\1P\NullHandling\obj\Debug\net5.0\NullHandling.csproj.AssemblyReference.cache
+E:\Ceti-Holders\7H-Ago---Dic-2021\1P\NullHandling\obj\Debug\net5.0\NullHandling.GeneratedMSBuildEditorConfig.editorconfig
+E:\Ceti-Holders\7H-Ago---Dic-2021\1P\NullHandling\obj\Debug\net5.0\NullHandling.AssemblyInfoInputs.cache
+E:\Ceti-Holders\7H-Ago---Dic-2021\1P\NullHandling\obj\Debug\net5.0\NullHandling.AssemblyInfo.cs
+E:\Ceti-Holders\7H-Ago---Dic-2021\1P\NullHandling\obj\Debug\net5.0\NullHandling.csproj.CoreCompileInputs.cache
+E:\Ceti-Holders\7H-Ago---Dic-2021\1P\NullHandling\obj\Debug\net5.0\NullHandling.dll
+E:\Ceti-Holders\7H-Ago---Dic-2021\1P\NullHandling\obj\Debug\net5.0\ref\NullHandling.dll
+E:\Ceti-Holders\7H-Ago---Dic-2021\1P\NullHandling\obj\Debug\net5.0\NullHandling.pdb
+E:\Ceti-Holders\7H-Ago---Dic-2021\1P\NullHandling\obj\Debug\net5.0\NullHandling.genruntimeconfig.cache

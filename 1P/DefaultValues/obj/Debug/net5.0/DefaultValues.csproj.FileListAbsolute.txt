@@ -1,0 +1,16 @@
+E:\Ceti-Holders\7H-Ago---Dic-2021\1P\DefaultValues\bin\Debug\net5.0\DefaultValues.exe
+E:\Ceti-Holders\7H-Ago---Dic-2021\1P\DefaultValues\bin\Debug\net5.0\DefaultValues.deps.json
+E:\Ceti-Holders\7H-Ago---Dic-2021\1P\DefaultValues\bin\Debug\net5.0\DefaultValues.runtimeconfig.json
+E:\Ceti-Holders\7H-Ago---Dic-2021\1P\DefaultValues\bin\Debug\net5.0\DefaultValues.runtimeconfig.dev.json
+E:\Ceti-Holders\7H-Ago---Dic-2021\1P\DefaultValues\bin\Debug\net5.0\DefaultValues.dll
+E:\Ceti-Holders\7H-Ago---Dic-2021\1P\DefaultValues\bin\Debug\net5.0\ref\DefaultValues.dll
+E:\Ceti-Holders\7H-Ago---Dic-2021\1P\DefaultValues\bin\Debug\net5.0\DefaultValues.pdb
+E:\Ceti-Holders\7H-Ago---Dic-2021\1P\DefaultValues\obj\Debug\net5.0\DefaultValues.csproj.AssemblyReference.cache
+E:\Ceti-Holders\7H-Ago---Dic-2021\1P\DefaultValues\obj\Debug\net5.0\DefaultValues.GeneratedMSBuildEditorConfig.editorconfig
+E:\Ceti-Holders\7H-Ago---Dic-2021\1P\DefaultValues\obj\Debug\net5.0\DefaultValues.AssemblyInfoInputs.cache
+E:\Ceti-Holders\7H-Ago---Dic-2021\1P\DefaultValues\obj\Debug\net5.0\DefaultValues.AssemblyInfo.cs
+E:\Ceti-Holders\7H-Ago---Dic-2021\1P\DefaultValues\obj\Debug\net5.0\DefaultValues.csproj.CoreCompileInputs.cache
+E:\Ceti-Holders\7H-Ago---Dic-2021\1P\DefaultValues\obj\Debug\net5.0\DefaultValues.dll
+E:\Ceti-Holders\7H-Ago---Dic-2021\1P\DefaultValues\obj\Debug\net5.0\ref\DefaultValues.dll
+E:\Ceti-Holders\7H-Ago---Dic-2021\1P\DefaultValues\obj\Debug\net5.0\DefaultValues.pdb
+E:\Ceti-Holders\7H-Ago---Dic-2021\1P\DefaultValues\obj\Debug\net5.0\DefaultValues.genruntimeconfig.cache
