@@ -1,0 +1,16 @@
+E:\Ceti-Holders\7H-Ago---Dic-2021\1P\CastingAndConverting\bin\Debug\net5.0\CastingAndConverting.exe
+E:\Ceti-Holders\7H-Ago---Dic-2021\1P\CastingAndConverting\bin\Debug\net5.0\CastingAndConverting.deps.json
+E:\Ceti-Holders\7H-Ago---Dic-2021\1P\CastingAndConverting\bin\Debug\net5.0\CastingAndConverting.runtimeconfig.json
+E:\Ceti-Holders\7H-Ago---Dic-2021\1P\CastingAndConverting\bin\Debug\net5.0\CastingAndConverting.runtimeconfig.dev.json
+E:\Ceti-Holders\7H-Ago---Dic-2021\1P\CastingAndConverting\bin\Debug\net5.0\CastingAndConverting.dll
+E:\Ceti-Holders\7H-Ago---Dic-2021\1P\CastingAndConverting\bin\Debug\net5.0\ref\CastingAndConverting.dll
+E:\Ceti-Holders\7H-Ago---Dic-2021\1P\CastingAndConverting\bin\Debug\net5.0\CastingAndConverting.pdb
+E:\Ceti-Holders\7H-Ago---Dic-2021\1P\CastingAndConverting\obj\Debug\net5.0\CastingAndConverting.csproj.AssemblyReference.cache
+E:\Ceti-Holders\7H-Ago---Dic-2021\1P\CastingAndConverting\obj\Debug\net5.0\CastingAndConverting.GeneratedMSBuildEditorConfig.editorconfig
+E:\Ceti-Holders\7H-Ago---Dic-2021\1P\CastingAndConverting\obj\Debug\net5.0\CastingAndConverting.AssemblyInfoInputs.cache
+E:\Ceti-Holders\7H-Ago---Dic-2021\1P\CastingAndConverting\obj\Debug\net5.0\CastingAndConverting.AssemblyInfo.cs
+E:\Ceti-Holders\7H-Ago---Dic-2021\1P\CastingAndConverting\obj\Debug\net5.0\CastingAndConverting.csproj.CoreCompileInputs.cache
+E:\Ceti-Holders\7H-Ago---Dic-2021\1P\CastingAndConverting\obj\Debug\net5.0\CastingAndConverting.dll
+E:\Ceti-Holders\7H-Ago---Dic-2021\1P\CastingAndConverting\obj\Debug\net5.0\ref\CastingAndConverting.dll
+E:\Ceti-Holders\7H-Ago---Dic-2021\1P\CastingAndConverting\obj\Debug\net5.0\CastingAndConverting.pdb
+E:\Ceti-Holders\7H-Ago---Dic-2021\1P\CastingAndConverting\obj\Debug\net5.0\CastingAndConverting.genruntimeconfig.cache
