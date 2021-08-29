@@ -1,0 +1,12 @@
+E:\Ceti-Holders\7H-Ago---Dic-2021\1P\CalculatorLib\bin\Debug\net5.0\CalculatorLib.deps.json
+E:\Ceti-Holders\7H-Ago---Dic-2021\1P\CalculatorLib\bin\Debug\net5.0\CalculatorLib.dll
+E:\Ceti-Holders\7H-Ago---Dic-2021\1P\CalculatorLib\bin\Debug\net5.0\ref\CalculatorLib.dll
+E:\Ceti-Holders\7H-Ago---Dic-2021\1P\CalculatorLib\bin\Debug\net5.0\CalculatorLib.pdb
+E:\Ceti-Holders\7H-Ago---Dic-2021\1P\CalculatorLib\obj\Debug\net5.0\CalculatorLib.csproj.AssemblyReference.cache
+E:\Ceti-Holders\7H-Ago---Dic-2021\1P\CalculatorLib\obj\Debug\net5.0\CalculatorLib.GeneratedMSBuildEditorConfig.editorconfig
+E:\Ceti-Holders\7H-Ago---Dic-2021\1P\CalculatorLib\obj\Debug\net5.0\CalculatorLib.AssemblyInfoInputs.cache
+E:\Ceti-Holders\7H-Ago---Dic-2021\1P\CalculatorLib\obj\Debug\net5.0\CalculatorLib.AssemblyInfo.cs
+E:\Ceti-Holders\7H-Ago---Dic-2021\1P\CalculatorLib\obj\Debug\net5.0\CalculatorLib.csproj.CoreCompileInputs.cache
+E:\Ceti-Holders\7H-Ago---Dic-2021\1P\CalculatorLib\obj\Debug\net5.0\CalculatorLib.dll
+E:\Ceti-Holders\7H-Ago---Dic-2021\1P\CalculatorLib\obj\Debug\net5.0\ref\CalculatorLib.dll
+E:\Ceti-Holders\7H-Ago---Dic-2021\1P\CalculatorLib\obj\Debug\net5.0\CalculatorLib.pdb
