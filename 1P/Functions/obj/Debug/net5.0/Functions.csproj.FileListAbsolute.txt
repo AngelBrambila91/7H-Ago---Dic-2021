@@ -1,0 +1,16 @@
+E:\Ceti-Holders\7H-Ago---Dic-2021\1P\Functions\bin\Debug\net5.0\Functions.exe
+E:\Ceti-Holders\7H-Ago---Dic-2021\1P\Functions\bin\Debug\net5.0\Functions.deps.json
+E:\Ceti-Holders\7H-Ago---Dic-2021\1P\Functions\bin\Debug\net5.0\Functions.runtimeconfig.json
+E:\Ceti-Holders\7H-Ago---Dic-2021\1P\Functions\bin\Debug\net5.0\Functions.runtimeconfig.dev.json
+E:\Ceti-Holders\7H-Ago---Dic-2021\1P\Functions\bin\Debug\net5.0\Functions.dll
+E:\Ceti-Holders\7H-Ago---Dic-2021\1P\Functions\bin\Debug\net5.0\ref\Functions.dll
+E:\Ceti-Holders\7H-Ago---Dic-2021\1P\Functions\bin\Debug\net5.0\Functions.pdb
+E:\Ceti-Holders\7H-Ago---Dic-2021\1P\Functions\obj\Debug\net5.0\Functions.csproj.AssemblyReference.cache
+E:\Ceti-Holders\7H-Ago---Dic-2021\1P\Functions\obj\Debug\net5.0\Functions.GeneratedMSBuildEditorConfig.editorconfig
+E:\Ceti-Holders\7H-Ago---Dic-2021\1P\Functions\obj\Debug\net5.0\Functions.AssemblyInfoInputs.cache
+E:\Ceti-Holders\7H-Ago---Dic-2021\1P\Functions\obj\Debug\net5.0\Functions.AssemblyInfo.cs
+E:\Ceti-Holders\7H-Ago---Dic-2021\1P\Functions\obj\Debug\net5.0\Functions.csproj.CoreCompileInputs.cache
+E:\Ceti-Holders\7H-Ago---Dic-2021\1P\Functions\obj\Debug\net5.0\Functions.dll
+E:\Ceti-Holders\7H-Ago---Dic-2021\1P\Functions\obj\Debug\net5.0\ref\Functions.dll
+E:\Ceti-Holders\7H-Ago---Dic-2021\1P\Functions\obj\Debug\net5.0\Functions.pdb
+E:\Ceti-Holders\7H-Ago---Dic-2021\1P\Functions\obj\Debug\net5.0\Functions.genruntimeconfig.cache
