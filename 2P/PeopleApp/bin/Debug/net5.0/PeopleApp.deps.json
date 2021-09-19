@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "PeopleApp/1.0.0": {
+        "dependencies": {
+          "RememberingOOP": "1.0.0"
+        },
+        "runtime": {
+          "PeopleApp.dll": {}
+        }
+      },
+      "RememberingOOP/1.0.0": {
+        "runtime": {
+          "RememberingOOP.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PeopleApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "RememberingOOP/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

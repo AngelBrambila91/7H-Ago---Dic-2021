@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "j1DTPVE81WkEFlihgAHp8zTqu9rK5TTOiT3hiioPS/Nkg4cZLadgB7BqkBcUlbm474259a0F2tLgl5BPvYQibQ==",
+  "success": true,
+  "projectFilePath": "E:\\Ceti-Holders\\7H-Ago---Dic-2021\\2P\\RememberingOOP\\RememberingOOP.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,9 @@
+E:\Ceti-Holders\7H-Ago---Dic-2021\2P\RememberingOOP\bin\Debug\netstandard2.0\RememberingOOP.deps.json
+E:\Ceti-Holders\7H-Ago---Dic-2021\2P\RememberingOOP\bin\Debug\netstandard2.0\RememberingOOP.dll
+E:\Ceti-Holders\7H-Ago---Dic-2021\2P\RememberingOOP\bin\Debug\netstandard2.0\RememberingOOP.pdb
+E:\Ceti-Holders\7H-Ago---Dic-2021\2P\RememberingOOP\obj\Debug\netstandard2.0\RememberingOOP.csproj.AssemblyReference.cache
+E:\Ceti-Holders\7H-Ago---Dic-2021\2P\RememberingOOP\obj\Debug\netstandard2.0\RememberingOOP.AssemblyInfoInputs.cache
+E:\Ceti-Holders\7H-Ago---Dic-2021\2P\RememberingOOP\obj\Debug\netstandard2.0\RememberingOOP.AssemblyInfo.cs
+E:\Ceti-Holders\7H-Ago---Dic-2021\2P\RememberingOOP\obj\Debug\netstandard2.0\RememberingOOP.csproj.CoreCompileInputs.cache
+E:\Ceti-Holders\7H-Ago---Dic-2021\2P\RememberingOOP\obj\Debug\netstandard2.0\RememberingOOP.dll
+E:\Ceti-Holders\7H-Ago---Dic-2021\2P\RememberingOOP\obj\Debug\netstandard2.0\RememberingOOP.pdb
