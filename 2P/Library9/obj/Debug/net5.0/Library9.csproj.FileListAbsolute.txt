@@ -1,0 +1,12 @@
+E:\Ceti-Holders\7H-Ago---Dic-2021\2P\Library9\bin\Debug\net5.0\Library9.deps.json
+E:\Ceti-Holders\7H-Ago---Dic-2021\2P\Library9\bin\Debug\net5.0\Library9.dll
+E:\Ceti-Holders\7H-Ago---Dic-2021\2P\Library9\bin\Debug\net5.0\ref\Library9.dll
+E:\Ceti-Holders\7H-Ago---Dic-2021\2P\Library9\bin\Debug\net5.0\Library9.pdb
+E:\Ceti-Holders\7H-Ago---Dic-2021\2P\Library9\obj\Debug\net5.0\Library9.csproj.AssemblyReference.cache
+E:\Ceti-Holders\7H-Ago---Dic-2021\2P\Library9\obj\Debug\net5.0\Library9.GeneratedMSBuildEditorConfig.editorconfig
+E:\Ceti-Holders\7H-Ago---Dic-2021\2P\Library9\obj\Debug\net5.0\Library9.AssemblyInfoInputs.cache
+E:\Ceti-Holders\7H-Ago---Dic-2021\2P\Library9\obj\Debug\net5.0\Library9.AssemblyInfo.cs
+E:\Ceti-Holders\7H-Ago---Dic-2021\2P\Library9\obj\Debug\net5.0\Library9.csproj.CoreCompileInputs.cache
+E:\Ceti-Holders\7H-Ago---Dic-2021\2P\Library9\obj\Debug\net5.0\Library9.dll
+E:\Ceti-Holders\7H-Ago---Dic-2021\2P\Library9\obj\Debug\net5.0\ref\Library9.dll
+E:\Ceti-Holders\7H-Ago---Dic-2021\2P\Library9\obj\Debug\net5.0\Library9.pdb

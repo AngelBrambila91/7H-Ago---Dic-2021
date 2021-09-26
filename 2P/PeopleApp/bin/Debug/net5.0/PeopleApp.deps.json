@@ -8,10 +8,16 @@
     ".NETCoreApp,Version=v5.0": {
       "PeopleApp/1.0.0": {
         "dependencies": {
+          "Library9": "1.0.0",
           "RememberingOOP": "1.0.0"
         },
         "runtime": {
           "PeopleApp.dll": {}
+        }
+      },
+      "Library9/1.0.0": {
+        "runtime": {
+          "Library9.dll": {}
         }
       },
       "RememberingOOP/1.0.0": {
@@ -23,6 +29,11 @@
   },
   "libraries": {
     "PeopleApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Library9/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

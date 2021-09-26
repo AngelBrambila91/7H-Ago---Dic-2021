@@ -3,9 +3,11 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>net5.0</TargetFramework>
+    <LangVersion>8</LangVersion>
   </PropertyGroup>
 
   <ItemGroup>
     <ProjectReference Include="../RememberingOOP/RememberingOOP.csproj" />
+    <ProjectReference Include="../Library9/Library9.csproj" />
   </ItemGroup>
 </Project>

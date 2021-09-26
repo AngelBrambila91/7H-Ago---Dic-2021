@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using static System.Console;
 
 namespace Shared
 {
@@ -36,5 +37,30 @@ namespace Shared
             HomePlanet = homePlanet;
             Instantiated = DateTime.Now;
         }
+
+        public void WriteToConsole()
+        {
+            WriteLine($"{Name} was born on a {DateOfBirth:dddd}.");
+        }
+
+        public string GetOrigin()
+        {
+            return $"{Name} was born on {HomePlanet}";
+        }
+
+        public (string Name, int Number) GetFruit()
+        {
+            return (Name : "Apples" ,Number : 5);
+        }
+
+        public void PassingParameters(int x, ref int y, out int z)
+        {
+            // our params CANNOT HAVE DEFAULT!!!!!
+            z = 100;
+            x ++;
+            y ++;
+            z ++;
+        }
+
     }
 }

@@ -17,3 +17,5 @@ E:\Ceti-Holders\7H-Ago---Dic-2021\2P\PeopleApp\obj\Debug\net5.0\PeopleApp.dll
 E:\Ceti-Holders\7H-Ago---Dic-2021\2P\PeopleApp\obj\Debug\net5.0\ref\PeopleApp.dll
 E:\Ceti-Holders\7H-Ago---Dic-2021\2P\PeopleApp\obj\Debug\net5.0\PeopleApp.pdb
 E:\Ceti-Holders\7H-Ago---Dic-2021\2P\PeopleApp\obj\Debug\net5.0\PeopleApp.genruntimeconfig.cache
+E:\Ceti-Holders\7H-Ago---Dic-2021\2P\PeopleApp\bin\Debug\net5.0\Library9.dll
+E:\Ceti-Holders\7H-Ago---Dic-2021\2P\PeopleApp\bin\Debug\net5.0\Library9.pdb

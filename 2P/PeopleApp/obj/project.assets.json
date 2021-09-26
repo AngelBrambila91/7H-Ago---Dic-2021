@@ -2,6 +2,16 @@
   "version": 3,
   "targets": {
     "net5.0": {
+      "Library9/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/Library9.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Library9.dll": {}
+        }
+      },
       "RememberingOOP/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
@@ -15,6 +25,11 @@
     }
   },
   "libraries": {
+    "Library9/1.0.0": {
+      "type": "project",
+      "path": "../Library9/Library9.csproj",
+      "msbuildProject": "../Library9/Library9.csproj"
+    },
     "RememberingOOP/1.0.0": {
       "type": "project",
       "path": "../RememberingOOP/RememberingOOP.csproj",
@@ -23,6 +38,7 @@
   },
   "projectFileDependencyGroups": {
     "net5.0": [
+      "Library9 >= 1.0.0",
       "RememberingOOP >= 1.0.0"
     ]
   },
@@ -55,6 +71,9 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
+            "E:\\Ceti-Holders\\7H-Ago---Dic-2021\\2P\\Library9\\Library9.csproj": {
+              "projectPath": "E:\\Ceti-Holders\\7H-Ago---Dic-2021\\2P\\Library9\\Library9.csproj"
+            },
             "E:\\Ceti-Holders\\7H-Ago---Dic-2021\\2P\\RememberingOOP\\RememberingOOP.csproj": {
               "projectPath": "E:\\Ceti-Holders\\7H-Ago---Dic-2021\\2P\\RememberingOOP\\RememberingOOP.csproj"
             }

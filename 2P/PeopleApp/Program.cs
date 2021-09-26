@@ -51,8 +51,51 @@ namespace PeopleApp
                  WriteLine($"{adrian.Name} was created at {adrian.HomePlanet} on a {adrian.Instantiated: hh:mm:ss}");
             #endregion
 
+            #region Using Methods
+                 camila.WriteToConsole();
+                 WriteLine(camila.GetOrigin());
+            #endregion
 
+            #region Using Tuples
+                 var fruit = camila.GetFruit();
+                 WriteLine($"{fruit.Number}, {fruit.Name} there are");
+            #endregion
 
+            #region Passing Parameters
+            int a = 10;
+            int b = 20;
+            int c = 30;
+            WriteLine($"Before : a = {a} , b = {b}, c = {c}");
+            zurdo.PassingParameters(a, ref b, out c);
+            WriteLine($"After : a = {a} , b = {b}, c = {c}");
+            
+            #endregion
+     
+            #region Creating Flight Passengers
+                 object[] passengers =  {
+                     new FirstClassPaseenger { AirMiles = 1_419 },
+                     new FirstClassPaseenger { AirMiles = 16_526 },
+                     new BusinessClassPasenger(),
+                     new CoachClassPassenger { CarryOnKG = 25.7 },
+                     new CoachClassPassenger { CarryOnKG = 0 },
+                     new FirstClassPaseenger { AirMiles = 1_700 },
+                 };
+
+                 foreach (object passenger in passengers)
+                 {
+                     decimal flightCost = passenger switch
+                     {
+                         FirstClassPaseenger p when p.AirMiles > 35000 => 1500M,
+                         FirstClassPaseenger p when p.AirMiles > 15000 => 1750M,
+                         FirstClassPaseenger _                         => 2000M,
+                         BusinessClassPasenger _                       => 1000M,// facade
+                         CoachClassPassenger p when p.CarryOnKG < 10.0 => 500M,
+                         CoachClassPassenger _                         => 650,
+                         _                                             => 800M
+                     };
+                     WriteLine($"Flight costs {flightCost:C} for {passenger}");
+                 }
+            #endregion
         }
     }
 }
