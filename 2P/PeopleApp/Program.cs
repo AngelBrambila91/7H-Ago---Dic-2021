@@ -6,6 +6,7 @@ namespace PeopleApp
 {
     class Program
     {
+        delegate int DelegateWithMatchingSignature(string s);
         static void Main(string[] args)
         {
             #region Simple Instantiate
@@ -96,6 +97,26 @@ namespace PeopleApp
                      WriteLine($"Flight costs {flightCost:C} for {passenger}");
                  }
             #endregion
+
+            camila.MethodIWantToCall("Hola");
+            
+            var d = new DelegateWithMatchingSignature(camila.MethodIWantToCall);
+            int answer = d("Frog");
+
+            zurdo.Shout += Zurdo_Shout;
+            zurdo.Poke();
+            zurdo.Poke();
+            zurdo.Poke();
+            zurdo.Poke();
+            zurdo.Poke();
+            zurdo.Poke();
+            camila.Shout += Zurdo_Shout;
+            camila.Poke();
+        }
+        private static void Zurdo_Shout(object sender, EventArgs e)
+        {
+            Person p = (Person) sender;
+            WriteLine($"{p.Name} is this angry {p.AngerLevel}");
         }
     }
 }

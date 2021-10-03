@@ -62,5 +62,25 @@ namespace Shared
             z ++;
         }
 
+        public int MethodIWantToCall(string input)
+        {
+            return input.Length;
+        }
+
+        // event Delegate field
+        public EventHandler Shout;
+        // data field
+        public int AngerLevel;
+        public void Poke ()
+        {
+            AngerLevel ++;
+            if(AngerLevel >= 3)
+            {
+                if(Shout != null)
+                {
+                    Shout(this, EventArgs.Empty);
+                }
+            }
+        }
     }
 }

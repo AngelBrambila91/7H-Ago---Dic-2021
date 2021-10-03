@@ -1,0 +1,16 @@
+E:\Ceti-Holders\7H-Ago---Dic-2021\2P\WorkingWithFileSystems\bin\Debug\net5.0\WorkingWithFileSystems.exe
+E:\Ceti-Holders\7H-Ago---Dic-2021\2P\WorkingWithFileSystems\bin\Debug\net5.0\WorkingWithFileSystems.deps.json
+E:\Ceti-Holders\7H-Ago---Dic-2021\2P\WorkingWithFileSystems\bin\Debug\net5.0\WorkingWithFileSystems.runtimeconfig.json
+E:\Ceti-Holders\7H-Ago---Dic-2021\2P\WorkingWithFileSystems\bin\Debug\net5.0\WorkingWithFileSystems.runtimeconfig.dev.json
+E:\Ceti-Holders\7H-Ago---Dic-2021\2P\WorkingWithFileSystems\bin\Debug\net5.0\WorkingWithFileSystems.dll
+E:\Ceti-Holders\7H-Ago---Dic-2021\2P\WorkingWithFileSystems\bin\Debug\net5.0\ref\WorkingWithFileSystems.dll
+E:\Ceti-Holders\7H-Ago---Dic-2021\2P\WorkingWithFileSystems\bin\Debug\net5.0\WorkingWithFileSystems.pdb
+E:\Ceti-Holders\7H-Ago---Dic-2021\2P\WorkingWithFileSystems\obj\Debug\net5.0\WorkingWithFileSystems.csproj.AssemblyReference.cache
+E:\Ceti-Holders\7H-Ago---Dic-2021\2P\WorkingWithFileSystems\obj\Debug\net5.0\WorkingWithFileSystems.GeneratedMSBuildEditorConfig.editorconfig
+E:\Ceti-Holders\7H-Ago---Dic-2021\2P\WorkingWithFileSystems\obj\Debug\net5.0\WorkingWithFileSystems.AssemblyInfoInputs.cache
+E:\Ceti-Holders\7H-Ago---Dic-2021\2P\WorkingWithFileSystems\obj\Debug\net5.0\WorkingWithFileSystems.AssemblyInfo.cs
+E:\Ceti-Holders\7H-Ago---Dic-2021\2P\WorkingWithFileSystems\obj\Debug\net5.0\WorkingWithFileSystems.csproj.CoreCompileInputs.cache
+E:\Ceti-Holders\7H-Ago---Dic-2021\2P\WorkingWithFileSystems\obj\Debug\net5.0\WorkingWithFileSystems.dll
+E:\Ceti-Holders\7H-Ago---Dic-2021\2P\WorkingWithFileSystems\obj\Debug\net5.0\ref\WorkingWithFileSystems.dll
+E:\Ceti-Holders\7H-Ago---Dic-2021\2P\WorkingWithFileSystems\obj\Debug\net5.0\WorkingWithFileSystems.pdb
+E:\Ceti-Holders\7H-Ago---Dic-2021\2P\WorkingWithFileSystems\obj\Debug\net5.0\WorkingWithFileSystems.genruntimeconfig.cache
