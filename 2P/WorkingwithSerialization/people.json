@@ -1,0 +1,21 @@
+[
+    {
+        "FirstName": "Ro",
+        "LastName": "El billulo",
+        "DateOfBirth": "1970-03-14T00:00:00",
+        "Children": null
+    },
+    {
+        "FirstName": "Danny",
+        "LastName": "Lozano",
+        "DateOfBirth": "1980-04-14T00:00:00",
+        "Children": [
+            {
+                "FirstName": "Danielito",
+                "LastName": "LozanitoUwU",
+                "DateOfBirth": "2001-12-25T00:00:00",
+                "Children": null
+            }
+        ]
+    }
+]

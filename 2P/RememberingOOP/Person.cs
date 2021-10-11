@@ -10,14 +10,14 @@ namespace Shared
         // Constant =
         // Read - only
         // Event
-        public string Name;
-        public DateTime DateOfBirth;
-        public BestFood BestFood;
+        public string FirstName { get; set; }
+        public string LastName { get; set; }
+        public DateTime DateOfBirth {get; set;}
 
-        public List<Person> Children = new List<Person>();
-        public const string Sepecies = "Homo Sapien";
-        public readonly string HomePlanet = "Earth";
-        public readonly DateTime Instantiated;
+
+        public HashSet<Person> Children {get; set;}
+
+        protected decimal Salary { get; set; }
 
 
         // Methods
@@ -25,28 +25,21 @@ namespace Shared
         // Property
         // Indexer
         // Operator
+
+
         public Person()
         {
-            Name = "Unknown";
-            Instantiated = DateTime.Now;
+
+
         }
 
-        public Person(string initialName, string homePlanet)
+        public Person (decimal initSalary)
         {
-            Name = initialName;
-            HomePlanet = homePlanet;
-            Instantiated = DateTime.Now;
+            Salary = initSalary;
         }
 
-        public void WriteToConsole()
-        {
-            WriteLine($"{Name} was born on a {DateOfBirth:dddd}.");
-        }
 
-        public string GetOrigin()
-        {
-            return $"{Name} was born on {HomePlanet}";
-        }
+
 
         public (string Name, int Number) GetFruit()
         {

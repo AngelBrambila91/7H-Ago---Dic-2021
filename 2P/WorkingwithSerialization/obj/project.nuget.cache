@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "9O79vu9B8qJ4CCAgyslsIkjrLSgQ3xGpnPwz44oEKR5tIVoDEbSFXcbDF3Bep+wtY2329QtSl4MH/DRgDpfPEg==",
+  "success": true,
+  "projectFilePath": "E:\\Ceti-Holders\\7H-Ago---Dic-2021\\2P\\WorkingwithSerialization\\WorkingwithSerialization.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AORUS_DM\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
